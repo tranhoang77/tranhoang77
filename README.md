@@ -4,7 +4,7 @@
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
 <p align="center">
-- ✍ I'm student at university of information technology.
+- ✍ I'm student at University of Information Technology.
 
 <br />
 <br />
