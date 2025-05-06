@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I’m Hoang Tran. Welcome to my page :tulip: :four_leaf_clover:
 
-<!--
-**tranhoang77/tranhoang77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tran Van Hoang
+   I would like to share my knowledge about AI/ML. I hope you like this.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contact information
+  - Email: tranvanhoangdpe@gmail.com
+  - Phone: 0868 342 ***
+  - Address: Ho Chi Minh, Viet Nam
+
+# Education
+  **2st year student at @University of Information Technology (UIT) - VNU HCM**
+  - Major: Computer Science 
